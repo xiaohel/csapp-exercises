@@ -1,2 +1,3 @@
 # csapp-exercises
-code samples for CSAPP
+
+在看*CSAPP*想顺便把后面的习题尽量过一遍加深理解。很多题目自己也想不出答案，大部分代码来自于互联网，有些我自己加上详细步骤。
